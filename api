@@ -1,0 +1,8 @@
+# Replace with the actual implementation of your chrome storage retrieval function
+def get_chrome_storage_values():
+    # Your implementation here
+    return {
+        "deviceId": "your_device_id",
+        "license_key": "your_license_key",
+        "powerfulAI": "your_powerfulAI"
+    }
